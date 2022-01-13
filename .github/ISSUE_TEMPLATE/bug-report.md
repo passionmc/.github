@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: API Bug Report
 about: Create a report to help us improve
 title: Please enter the bug report title
 labels: bug
@@ -16,8 +16,8 @@ A clear and concise description of what the bug is.
 1. Used API Url e.g vX/user/X
 ### Used Version
 - [ ] v1
-<!--
 - [ ] beta 
+<!--
 - [ ] canary
 -->
 
